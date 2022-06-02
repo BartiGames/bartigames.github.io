@@ -1,6 +1,26 @@
 ## [tuwstawnazweewentu] 
 
-You can use the [editor on GitHub](https://github.com/BartiGames/bartigames.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+
+```markdown
+Tutaj jest trelo:
+
+
+https://trello.com/invite/b/1VLctBnz/2b7256487b3744d4cc5a02f722acb55a/untitledevent
+
+**Bold** and _Italic_  Wpisujcie swoje pomysły ale pamiętajcie pomysł jest dobry jeśli sie da go zrealizować!
+
+```markdown
+Lista faktów
+
+# Pełna nazwa ewntu 1
+## Adress 2
+### Data 3
+
+
+
+------
+
+random
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
