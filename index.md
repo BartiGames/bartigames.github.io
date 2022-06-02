@@ -12,11 +12,29 @@ https://trello.com/invite/b/1VLctBnz/2b7256487b3744d4cc5a02f722acb55a/untitledev
 ```markdown
 Lista faktów
 
-# Pełna nazwa ewntu 1
+# Pełna nazwa ewentu 1
+hehehe
 ## Adress 2
+ul. Uliczna 69 Jaworzno
 ### Data 3
+35 Lutego 1946 - 5.45 - 3.30
 
+### Kontakty dla uczestników
 
+-  +48 123 456 789
+- coolemail@domain.com
+
+### Istotne sprawy
+
+tbd
+
+### Plan dla organizatorów:
+
+link
+
+### Plan dla helperów:
+
+link 
 
 ------
 
