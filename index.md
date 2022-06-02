@@ -1,4 +1,4 @@
-## [tuwstawnazweewentu].
+## [tuwstawnazweewentu]
 
 
 ```markdown
