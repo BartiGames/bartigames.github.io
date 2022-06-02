@@ -4,7 +4,9 @@
 ## Tutaj jest trelo:
 
 
-https://trello.com/invite/b/1VLctBnz/2b7256487b3744d4cc5a02f722acb55a/untitledevent
+
+[Trello](https://trello.com/invite/b/1VLctBnz/2b7256487b3744d4cc5a02f722acb55a/untitledevent)
+
 
 Wpisujcie swoje pomysły ale pamiętajcie pomysł jest dobry jeśli sie da go zrealizować!
 
