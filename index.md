@@ -7,10 +7,9 @@ Tutaj jest trelo:
 
 https://trello.com/invite/b/1VLctBnz/2b7256487b3744d4cc5a02f722acb55a/untitledevent
 
-**Bold** and _Italic_  Wpisujcie swoje pomysły ale pamiętajcie pomysł jest dobry jeśli sie da go zrealizować!
+Wpisujcie swoje pomysły ale pamiętajcie pomysł jest dobry jeśli sie da go zrealizować!
 
-```markdown
-Lista faktów
+### Lista faktów
 
 # Pełna nazwa ewentu 1
 hehehe
@@ -35,6 +34,11 @@ link
 ### Plan dla helperów:
 
 link 
+
+
+
+
+github stuff to consider:
 
 ------
 
