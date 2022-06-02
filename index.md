@@ -5,7 +5,10 @@
 
 
 
-[Trello](https://trello.com/invite/b/1VLctBnz/2b7256487b3744d4cc5a02f722acb55a/untitledevent)
+
+
+![Test](https://icons.iconarchive.com/icons/bokehlicia/captiva/32/web-trello-icon.png) [Trello](https://trello.com/invite/b/1VLctBnz/2b7256487b3744d4cc5a02f722acb55a/untitledevent)
+
 
 Wpisujcie swoje pomysły ale pamiętajcie pomysł jest dobry jeśli sie da go zrealizować!
 
@@ -13,13 +16,12 @@ Wpisujcie swoje pomysły ale pamiętajcie pomysł jest dobry jeśli sie da go zr
 
 ### [nazwaewentu]
 
-### Adress:
+### Adress: 
 ul. Uliczna 69 Jaworzno
-### Data:
-35 Lutego 1946 - 5.45 - 3.30
 
-[Stronka](www.google.com)
+![Test](https://icons.iconarchive.com/icons/martz90/circle/32/calendar-icon.png) 35 Lutego 1946 - 5.45 - 3.30
 
+![Test](https://icons.iconarchive.com/icons/martz90/circle/32/ie-icon.png) [Stronka](www.google.com)
 
 ## Kontakty dla uczestników
 
@@ -31,6 +33,7 @@ ul. Uliczna 69 Jaworzno
 tbd
 
 ### Plan dla organizatorów: [Tutaj!](https://trello.com/invite/b/1VLctBnz/2b7256487b3744d4cc5a02f722acb55a/untitledevent)
+
 ### Plan dla helperów: [Tutaj!](https://trello.com/invite/b/1VLctBnz/2b7256487b3744d4cc5a02f722acb55a/untitledevent) 
 
 
